@@ -20,3 +20,9 @@
 
 - [Presentación Clase 1](https://github.com/danyel117/ingenieria-web-udea/blob/clase1/Clase%201%20-%20An%C3%A1lisis%20de%20Requerimientos%20y%20fundamentos%20de%20dise%C3%B1o.pdf)
 - [Requerimientos Proyecto 1](https://github.com/danyel117/ingenieria-web-udea/blob/clase1/Proyecto%201.pdf)
+
+## Clase 2: Introducción a Figma
+
+### Link del proyecto en Figma:
+
+- [Figma](https://www.figma.com/file/OXr1sAvtpYU1MVojbpOVfe/Primeros-pasos-Figma?node-id=0%3A1)
