@@ -26,3 +26,12 @@
 ### Link del proyecto en Figma:
 
 - [Figma](https://www.figma.com/file/OXr1sAvtpYU1MVojbpOVfe/Primeros-pasos-Figma?node-id=0%3A1)
+
+## Clase 3: Ejemplo práctico de Figma (Clon Spotify)
+
+### Links interesantes:
+
+- [Proyecto Spotify en Figma](https://www.figma.com/file/7xTzaxor2FTQwExbJ6PFzs/Clon-Spotify?node-id=0%3A1)
+- [Font Awesome en Figma](https://www.figma.com/community/file/836278983960849574)
+- [Tailwind en Figma](https://www.figma.com/community/file/958383439532195363)
+- [Documentación de Tailwind](https://tailwindcss.com/docs)
