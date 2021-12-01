@@ -4,7 +4,7 @@
 
 `git init`
 
-- Crear enviar los archivos a Staging:
+- Enviar los archivos a Staging:
 
 `git add .`
 
