@@ -41,4 +41,4 @@
 - [Link del figma con explicación de git](https://www.figma.com/file/nGxv1iKGPjbOQv6MW5B9bi/Git-y-Scrum?node-id=0%3A1)
 - [Link del repositorio creado](https://github.com/danyel117/repositorio-ejemplo-explicacion-git)
 
-- [Comandos Importantes de Git](https://github.com/danyel117/ingenieria-web-udea#comandos_importantes_git)
+- [Comandos Importantes de Git](https://github.com/danyel117/ingenieria-web-udea/blob/main/comandos_importantes_git.md)
