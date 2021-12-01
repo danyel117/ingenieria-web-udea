@@ -38,6 +38,8 @@
 
 ## Clase 4: Introducción a Scrum y Git
 
+### Links interesantes
+
 - [Link del figma con explicación de git](https://www.figma.com/file/nGxv1iKGPjbOQv6MW5B9bi/Git-y-Scrum?node-id=0%3A1)
 - [Link del repositorio creado](https://github.com/danyel117/repositorio-ejemplo-explicacion-git)
 
