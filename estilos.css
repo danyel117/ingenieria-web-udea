@@ -1,5 +1,10 @@
 section {
   background-color: wheat;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  margin: 20px;
 }
 
 button {
@@ -7,6 +12,7 @@ button {
   color: white;
   padding: 10px;
   border-radius: 8px;
+  max-width: 128px;
 }
 
 .fondoVerde {
@@ -17,6 +23,19 @@ button {
   background-color: blue;
 }
 
+.section-grid {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 15px;
+}
+
+.card-container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
 .card {
   background-color: gray;
   color: white;
@@ -24,4 +43,13 @@ button {
   font-weight: 900;
   padding: 10px;
   margin: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 16px;
+  min-width: 200px;
+}
+
+span {
+  margin: 32px;
 }
