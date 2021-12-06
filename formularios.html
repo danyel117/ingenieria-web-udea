@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="forms.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <section>
+      <form>
+        <label for="nombre_usuario">
+          <span>Ingresa tu Nombre</span>
+          <input name="nombre_usuario" placeholder="Ingresa tu nombre" />
+        </label>
+        <label for="email">
+          <span>Ingresa tu correo</span>
+          <input name="email" placeholder="Ingresa tu correo" type="email" required />
+        </label>
+        <label for="password">
+          <span>Ingresa tu contraseña</span>
+          <input name="password" type="password" required />
+        </label>
+        <label for="numero">
+          <span>Ingresa tu numero</span>
+          <input name="numero" type="number" max="10" required />
+        </label>
+        <label for="fecha">
+          <span>Ingresa tu fecha</span>
+          <input name="fecha" type="date" required />
+        </label>
+        <label for="fecha_hora">
+          <span>Ingresa tu fecha_hora</span>
+          <input name="fecha_hora" type="datetime-local" required />
+        </label>
+        <label for="checkbox">
+          <span>Ingresa tu checkbox</span>
+          <input name="checkbox" type="checkbox" required />
+        </label>
+        <label for="radio">
+          <span>Ingresa tu radio</span>
+          <input name="radio" type="radio" required />
+        </label>
+        <label for="file">
+          <span>Ingresa tu archivo</span>
+          <input name="file" type="file" required />
+        </label>
+        <button type="submit">Enviar informaciones</button>
+      </form>
+    </section>
+  </body>
+</html>
