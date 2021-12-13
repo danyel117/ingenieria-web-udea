@@ -44,3 +44,27 @@
 - [Link del repositorio creado](https://github.com/danyel117/repositorio-ejemplo-explicacion-git)
 
 - [Comandos Importantes de Git](https://github.com/danyel117/ingenieria-web-udea/blob/main/comandos_importantes_git.md)
+
+## Clase 5: Introducción a HTML y CSS
+
+### Branch:
+
+`git checkout clase5/main`
+
+### Links interesantes
+
+- [Etiquetas HTML](https://www.w3schools.com/TAGS/default.ASP)
+
+## Clase 6: Introducción a React
+
+### Branch:
+
+`git checkout clase6/main`
+
+### Links interesantes
+
+- [React](https://es.reactjs.org/)
+- [Create React App](https://create-react-app.dev/)
+- [React Router DOM](https://reactrouter.com/docs/en/v6/getting-started/overview)
+- [Instalación de Tailwind](https://tailwindcss.com/docs/guides/create-react-app)
+- [Tailwind UI Kit](https://tailwinduikit.com/components/webapp/master_layout/sidebar_layout)
