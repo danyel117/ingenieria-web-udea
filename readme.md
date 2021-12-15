@@ -68,3 +68,9 @@
 - [React Router DOM](https://reactrouter.com/docs/en/v6/getting-started/overview)
 - [Instalación de Tailwind](https://tailwindcss.com/docs/guides/create-react-app)
 - [Tailwind UI Kit](https://tailwinduikit.com/components/webapp/master_layout/sidebar_layout)
+
+## Clase 7: Introducción a Estados y Efectos
+
+### Branch:
+
+`git checkout clase7/main`
