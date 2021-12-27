@@ -74,3 +74,11 @@
 ### Branch:
 
 `git checkout clase7/main`
+
+## Proyecto 2:
+
+### Branch:
+
+`git checkout proyecto2`
+
+- [Instrucciones](https://github.com/danyel117/ingenieria-web-udea/blob/proyecto2/Proyecto%202.pdf)
