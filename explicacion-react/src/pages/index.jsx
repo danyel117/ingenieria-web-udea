@@ -11,9 +11,9 @@ function Index() {
     console.log('la contrasena es:', password);
   };
 
-  useEffect(() => {
-    console.log('hubo un cambio', correo, password);
-  }, [correo, password]);
+  // useEffect(() => {
+  //   console.log('hubo un cambio', correo, password);
+  // }, [correo, password]);
 
   useEffect(() => {
     if (password !== '') {
@@ -25,9 +25,9 @@ function Index() {
     }
   }, [password]);
 
-  useEffect(() => {
-    console.log('estoy cargando por primera vez');
-  }, []);
+  // useEffect(() => {
+  //   console.log('estoy cargando por primera vez');
+  // }, []);
 
   return (
     <div className='flex flex-col p-10 items-center'>
@@ -53,6 +53,7 @@ function Index() {
         </span>
       )}
       <button
+        type='button'
         className='my-2 p-2 bg-green-300 rounded-lg shadow-md hover:bg-green-400'
         onClick={iniciarSesion}
       >

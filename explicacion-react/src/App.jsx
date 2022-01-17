@@ -1,9 +1,9 @@
-import Index from './pages';
-import Perfil from './pages/perfil';
-import Contacto from './pages/contacto';
+import Index from 'pages';
+import Perfil from 'pages/perfil';
+import Contacto from 'pages/contacto';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import './styles/styles.css';
-import PublicLayout from './layouts/PublicLayout';
+import 'styles/styles.css';
+import PublicLayout from 'layouts/PublicLayout';
 
 function App() {
   return (
