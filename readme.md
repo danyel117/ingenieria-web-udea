@@ -20,7 +20,7 @@
 
 5. Crear repositorio en Github y cambiar el remoto del repo local
 
-`git remote add origin https://github.com/mi-usuario/nombre-de-mi-repo`
+`git remote set-url origin https://github.com/mi-usuario/nombre-de-mi-repo`
 
 6. Enviar el código al repositorio
 
