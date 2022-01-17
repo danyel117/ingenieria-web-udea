@@ -75,6 +75,11 @@
 
 `git checkout clase7/main`
 
+## Clase 8: Prettier y Eslint
+
+### Branch:
+`git checkout clase8/main`
+
 ## Proyecto 2:
 
 ### Branch:
@@ -82,3 +87,10 @@
 `git checkout proyecto2`
 
 - [Instrucciones](https://github.com/danyel117/ingenieria-web-udea/blob/proyecto2/Proyecto%202.pdf)
+
+- [Repositorio Base](https://github.com/danyel117/base-hoja-de-vida-ing-web-udea)
+
+- [Config de Prettier](https://github.com/danyel117/base-hoja-de-vida-ing-web-udea/blob/main/.prettierrc)
+
+- [Config de Eslint](https://github.com/danyel117/base-hoja-de-vida-ing-web-udea/blob/main/.eslintrc.json)
+
